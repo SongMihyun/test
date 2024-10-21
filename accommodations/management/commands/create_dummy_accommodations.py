@@ -1,4 +1,4 @@
-# your_app/management/commands/create_dummy_accommodations.py
+
 # python manage.py create_dummy_accommodations
 from django.core.management.base import BaseCommand
 from django.utils import timezone
